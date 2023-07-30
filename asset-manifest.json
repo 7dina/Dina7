@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.8388dc62.css",
+    "main.js": "/react-gh-pages/static/js/main.b5578f06.js",
+    "static/js/787.40fd8b8a.chunk.js": "/react-gh-pages/static/js/787.40fd8b8a.chunk.js",
+    "static/media/product_img2.jpg": "/react-gh-pages/static/media/product_img2.e05625aec0d9daa5b6db.jpg",
+    "static/media/product_img1.jpg": "/react-gh-pages/static/media/product_img1.01f4e7c0fa5a1b7e5124.jpg",
+    "static/media/banner9.jpg": "/react-gh-pages/static/media/banner9.7a3935e82c3f71be543d.jpg",
+    "static/media/banner8.jpg": "/react-gh-pages/static/media/banner8.0b7b88a86864f6dca3e5.jpg",
+    "static/media/furniture_insta6.jpg": "/react-gh-pages/static/media/furniture_insta6.3726cdcb3b4c876e6f9e.jpg",
+    "static/media/banner7.jpg": "/react-gh-pages/static/media/banner7.9852b3a208459387258e.jpg",
+    "static/media/furniture_insta4.jpg": "/react-gh-pages/static/media/furniture_insta4.312f880dc4f9228fbc39.jpg",
+    "static/media/furniture_insta3.jpg": "/react-gh-pages/static/media/furniture_insta3.32cf7a7c34b9fdee0350.jpg",
+    "static/media/furniture_insta2.jpg": "/react-gh-pages/static/media/furniture_insta2.a7680d88296dc9b60d8e.jpg",
+    "static/media/furniture_banner2.jpg": "/react-gh-pages/static/media/furniture_banner2.309b8ea3533a3034e352.jpg",
+    "static/media/furniture_insta1.jpg": "/react-gh-pages/static/media/furniture_insta1.b7a09bc08c0f605a71a4.jpg",
+    "static/media/furniture_insta5.jpg": "/react-gh-pages/static/media/furniture_insta5.4c14c803399f68463e98.jpg",
+    "static/media/product_img3.jpg": "/react-gh-pages/static/media/product_img3.2b9334588470d6a20fa9.jpg",
+    "static/media/menu_banner1.jpg": "/react-gh-pages/static/media/menu_banner1.e1dad71af40697e20f4d.jpg",
+    "static/media/furniture_banner1.jpg": "/react-gh-pages/static/media/furniture_banner1.900934871828d756b909.jpg",
+    "static/media/menu_banner3.jpg": "/react-gh-pages/static/media/menu_banner3.dd0742115d049ec70595.jpg",
+    "static/media/furniture_img4.jpg": "/react-gh-pages/static/media/furniture_img4.19367232c1c72a4f11d3.jpg",
+    "static/media/furniture_img2.jpg": "/react-gh-pages/static/media/furniture_img2.ab852a8f4f43f080190c.jpg",
+    "static/media/furniture_img3.jpg": "/react-gh-pages/static/media/furniture_img3.15cc9a2365a7f1c340ab.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.8388dc62.css.map": "/react-gh-pages/static/css/main.8388dc62.css.map",
+    "main.b5578f06.js.map": "/react-gh-pages/static/js/main.b5578f06.js.map",
+    "787.40fd8b8a.chunk.js.map": "/react-gh-pages/static/js/787.40fd8b8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8388dc62.css",
+    "static/js/main.b5578f06.js"
+  ]
+}
